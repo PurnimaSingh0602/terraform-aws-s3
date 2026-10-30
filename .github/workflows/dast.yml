@@ -31,3 +31,4 @@ jobs:
         with:
           target: 'http://localhost:3000'
           artifact_name: 'zap-security-report'
+          allow_issue_writing: false
