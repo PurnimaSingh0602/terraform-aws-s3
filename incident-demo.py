@@ -2,7 +2,10 @@
 # Experiment 8: Security Incident Simulation
 # Simulated hardcoded credentials - NOT REAL
 
-api_key = "FAKE_API_KEY_1234567890abcdef"
+api_key = "YOUR_API_KEY_HERE"
+
+
+
 
 password = "FAKE_PASSWORD_DoNotUse_123!"
 
